@@ -6,7 +6,7 @@
  * 
  * 
  * ***************************************************
- * HW2.cpp
+ * HW3.cpp
  * creates n subprocesses using fork and displays "child running"
  * and the exits. also runs execv to open b.c in each child process
  * ***************************************************/
